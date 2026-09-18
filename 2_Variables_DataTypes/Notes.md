@@ -1,10 +1,61 @@
 # 📘 PF Chapter 2 — Variables & Data Types
 
+--- 
+
+# 🎯 Chapter 2 ka Learning Order
+
+Hum is chapter ko is order mein complete karenge:
+
+### Part A — Variables & Types
+
+* Variables
+* Declaration
+* Initialization
+* Assignment
+* Data types
+* `const`
+* Memory basics
+
+### Part B — Type System
+
+* Type conversion
+* Implicit conversion
+* Explicit casting
+* `int` vs `double`
+* Character/integer relationship
+* Overflow basics
+
+### Part C — Input/Output
+
+* `cin`
+* `cout`
+* multiple inputs
+* multiple outputs
+* whitespace/newline
+* common input mistakes
+
+### Part D — Tricky PF
+
+* integer division
+* decimal calculations
+* precedence with types
+* overflow
+* type conversion traps
+* interview-style output questions
+
+### Part E — Practice
+
+Easy → medium → tricky → interview-style.
+
+---
+
 Is chapter ka goal ye hai ke tumhe clearly samajh aaye:
 
 > **Data memory mein kaise store hota hai, variable kya hota hai, data type kyun hota hai, aur C++ kis tarah decide karta hai ke kitni memory aur kis type ka data rakhna hai.**
 
 ---
+
+# 📘 Chapter 2 — Part A: Variables and Types
 
 ## 2.1 Variable kya hota hai?
 
@@ -480,53 +531,6 @@ Trace table banao:
 | `int a = 10` |   ? |   ? |
 | `int b = a`  |   ? |   ? |
 | `a = 20`     |   ? |   ? |
-
----
-
-# 🎯 Chapter 2 ka Learning Order
-
-Hum is chapter ko is order mein complete karenge:
-
-### Part A — Variables & Types
-
-* Variables
-* Declaration
-* Initialization
-* Assignment
-* Data types
-* `const`
-* Memory basics
-
-### Part B — Type System
-
-* Type conversion
-* Implicit conversion
-* Explicit casting
-* `int` vs `double`
-* Character/integer relationship
-* Overflow basics
-
-### Part C — Input/Output
-
-* `cin`
-* `cout`
-* multiple inputs
-* multiple outputs
-* whitespace/newline
-* common input mistakes
-
-### Part D — Tricky PF
-
-* integer division
-* decimal calculations
-* precedence with types
-* overflow
-* type conversion traps
-* interview-style output questions
-
-### Part E — Practice
-
-Easy → medium → tricky → interview-style.
 
 ---
 
