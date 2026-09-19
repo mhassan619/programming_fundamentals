@@ -468,9 +468,9 @@ Result:
 true
 ```
 
-Truth table:
+### Truth table:
 
-| A     | B     | A || B |
+| A     | B     | A II B |
 | ----- | ----- | ------ |
 | false | false | false  |
 | false | true  | true   |
