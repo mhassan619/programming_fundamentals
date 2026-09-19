@@ -2153,7 +2153,7 @@ n % 10 → last digit
 n / 10 → last digit remove
 ```
 
-Ye recursion aur digit problems mein tum already use kar chuke ho.
+Ye recursion aur digit problems mein tum use karo gy.
 
 ---
 
