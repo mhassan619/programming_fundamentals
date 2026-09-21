@@ -2110,7 +2110,7 @@ year = 2024
 Check:
 
 ```text
-2024 % 400 == 0 → false
+2024 % 400 == 0 → true
 ```
 
 Then:
